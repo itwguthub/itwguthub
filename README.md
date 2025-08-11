@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @R0otRx
 - 👀 I’m interested in ... Red Team, Playing with new security tech, gaming
-- Tv Shows, Redo of Healer, Shield Hero, Solo Leveling
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently looking to Collab with someone
 
 <!---
 itwguthub/itwguthub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
