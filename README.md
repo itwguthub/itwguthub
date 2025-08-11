@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Multiple Blogs and Forums](Multiple Blogs and Forums)
 
-- 📫 How to reach me **https://hackforums.net/member.php?action=profile&uid=5432053**
+- 📫 How to reach me **Redacted**
 
 - ⚡ Fun fact **I like Anime, Dirtbikes, Golf, Gaming**
 
