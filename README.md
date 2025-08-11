@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Anything - Networking, Security, Cloud**
 
-- 📝 I regularly write articles on [Multiple Blogs and Forums](Multiple Blogs and Forums)
+- 📝 I regularly write articles on [Multiple Blogs and Forums]
 
 - 📫 How to reach me **Redacted**
 
