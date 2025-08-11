@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @itwguthub
+- 👋 Hi, I’m @R0otRx
 - 👀 I’m interested in ... Red Team, Playing with new security tech, gaming
+- Tv Shows, Redo of Healer, Shield Hero, Solo Leveling
 - 🌱 I’m currently learning ... Python
 
 <!---
