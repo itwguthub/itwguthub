@@ -26,7 +26,7 @@
 
 ###
 
-- 📫 How to reach me **https://hackforums.net/member.php?action=profile&uid=5432053**
+- 📫 How to reach me **Redacted**
 
 ###
 
